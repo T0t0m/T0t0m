@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Bienvenue sur mon profil GitHub !
 
-<!--
-**T0t0m/T0t0m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 À propos de moi
 
-Here are some ideas to get you started:
+- 🎓 Étudiant en développement informatique à l'IPI Toulouse
+- 🚀 Passionné par le développement web et logiciel
+- 🎯 Toujours en quête de nouveaux défis et d'apprentissage
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies et outils
+
+- **Langages** : Java, JavaScript, Python, C++
+- **Frameworks & Bibliothèques** : Angular, Spring Boot
+- **Base de données** : SQL Server
+- **Outils** : Visual Studio Code, IntelliJ IDEA, Git, Maven
+
+## 📌 Projets récents
+
+- 🔹 **Application de tirage au sort** en JavaScript
+- 🔹 **Gestion de matériel en laboratoire** (projet académique)
+- 🔹 **Site marchand type Amazon** avec une API en Java
+- 🔹 **RPG textuel** en Java
+
+## 📫 Me contacter
+
+📧 Email : [tom.fabre31@gmail.com](mailto:tom.fabre31@gmail.com)
+🌐 LinkedIn : [linkedin/in/tom-fabre-ipi-informatique/]((https://www.linkedin.com/in/tom-fabre-ipi-informatique/))
+
+Merci de visiter mon profil ! ⭐ N'hésite pas à jeter un œil à mes projets et à contribuer !
+
