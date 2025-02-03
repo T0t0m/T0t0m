@@ -15,9 +15,9 @@
 
 ## 📌 Projets récents
 
-- 🔹 **Application de tirage au sort** en JavaScript
+- 🔹 **Mon Portfolio** en JavaScript, HTML, CSS
 - 🔹 **Gestion de matériel en laboratoire** (projet académique)
-- 🔹 **Site marchand type Amazon** avec une API en Java
+- 🔹 **Création d'une recherche de livre** avec une API appelé JavaScript
 - 🔹 **RPG textuel** en Java
 
 ## 📫 Me contacter
