@@ -94,12 +94,10 @@
 ###
 
 <div align="center">
-  <a href="tom.fabre31@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/tom-fabre-ipi-informatique/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+  <ul>
+    <li>📧 Email : [tom.fabre31@gmail.com](tom.fabre31@gmail.com)</li>
+    <li>🌐 LinkedIn : [linkedin/in/tom-fabre-ipi-informatique/](https://www.linkedin.com/in/tom-fabre-ipi-informatique/)</li>
+  </ul>
 </div>
 
 ###
