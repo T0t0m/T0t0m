@@ -8,10 +8,10 @@
 
 ## 🛠️ Technologies et outils
 
-- **Langages** : Java, JavaScript, Python, C++
-- **Frameworks & Bibliothèques** : Angular, Spring Boot
-- **Base de données** : SQL Server
-- **Outils** : Visual Studio Code, IntelliJ IDEA, Git, Maven
+- **Langages** : `HTML` `CSS` `JavaScript` `Java` `Python` `C++`
+- **Frameworks & Bibliothèques** : `Angular` `Spring Boot` `Symfony`
+- **Base de données** : `SQL Server`
+- **Outils** : `Visual Studio Code` `IntelliJ IDEA` `Git` `Maven`
 
 ## 📌 Projets récents
 
