@@ -1,29 +1,109 @@
-# 👋 Bienvenue sur mon profil GitHub !
+<h1 align="center">👋 Bienvenue sur mon profil GitHub !</h1>
 
-## 💻 À propos de moi
+###
 
-- 🎓 Étudiant en développement informatique à l'IPI Toulouse
-- 🚀 Passionné par le développement web et logiciel
-- 🎯 Toujours en quête de nouveaux défis et d'apprentissage
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=T0t0m&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=T0t0m&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-## 🛠️ Technologies et outils
+###
 
-- **Langages** : `HTML` `CSS` `JavaScript` `Java` `Python` `C++`
-- **Frameworks & Bibliothèques** : `Angular` `Spring Boot` `Symfony`
-- **Base de données** : `SQL Server`
-- **Outils** : `Visual Studio Code` `IntelliJ IDEA` `Git` `Maven`
+<h2 align="left">💻 À propos de moi</h2>
 
-## 📌 Projets récents
+###
 
-- 🔹 **Mon Portfolio** en JavaScript, HTML, CSS
-- 🔹 **Gestion de matériel en laboratoire** (projet académique)
-- 🔹 **Création d'une recherche de livre** avec une API appelé JavaScript
-- 🔹 **RPG textuel** en Java
+<p align="left">🎓 Étudiant en développement informatique à l'IPI Toulouse</p>
 
-## 📫 Me contacter
+###
 
-📧 Email : [tom.fabre31@gmail.com](mailto:tom.fabre31@gmail.com)
-🌐 LinkedIn : [linkedin/in/tom-fabre-ipi-informatique/](https://www.linkedin.com/in/tom-fabre-ipi-informatique/)
+<p align="left">🚀 Passionné par le développement web et logiciel</p>
 
-Merci de visiter mon profil ! ⭐ N'hésite pas à jeter un œil à mes projets et à contribuer !
+###
 
+<p align="left">🎯 Toujours en quête de nouveaux défis et d'apprentissage</p>
+
+###
+
+<h2 align="left">🛠️ Technologies et outils</h2>
+
+###
+
+<h3 align="left">Langages :</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<h3 align="left">Frameworks & Bibliothèques :</h3>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white&style=for-the-badge" height="40" alt="symfony logo"  />
+</div>
+
+###
+
+<h3 align="left">Base de données :</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<h3 align="left">Outils :</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="git logo"  />
+</div>
+
+###
+
+<h2 align="left">📫 Me contacter</h2>
+
+###
+
+<div align="center">
+  <a href="tom.fabre31@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/tom-fabre-ipi-informatique/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/T0t0m/T0t0m/output/snake.svg" alt="Snake animation" />
+
+###
