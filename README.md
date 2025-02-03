@@ -96,9 +96,6 @@
 <p>📧 Email : <a href="mailto:tom.fabre31@gmail.com">tom.fabre31@gmail.com</a></p>
 <p>🌐 LinkedIn : <a href="https://www.linkedin.com/in/tom-fabre-ipi-informatique/" target="_blank">linkedin/in/tom-fabre-ipi-informatique</a></p>
 
-
 ###
 
-<img src="https://raw.githubusercontent.com/T0t0m/T0t0m/output/snake.svg" alt="Snake animation" />
-
-###
+<p>Merci de visiter mon profil ! ⭐ N'hésite pas à jeter un œil à mes projets et à contribuer !</p>
