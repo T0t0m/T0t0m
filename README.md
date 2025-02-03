@@ -93,12 +93,9 @@
 
 ###
 
-<div align="center">
-  <ul>
-    <li>📧 Email : [tom.fabre31@gmail.com](tom.fabre31@gmail.com)</li>
-    <li>🌐 LinkedIn : [linkedin/in/tom-fabre-ipi-informatique/](https://www.linkedin.com/in/tom-fabre-ipi-informatique/)</li>
-  </ul>
-</div>
+<p>📧 Email : <a href="mailto:tom.fabre31@gmail.com">tom.fabre31@gmail.com</a></p>
+<p>🌐 LinkedIn : <a href="https://www.linkedin.com/in/tom-fabre-ipi-informatique/" target="_blank">linkedin/in/tom-fabre-ipi-informatique</a></p>
+
 
 ###
 
