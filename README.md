@@ -23,7 +23,7 @@
 ## 📫 Me contacter
 
 📧 Email : [tom.fabre31@gmail.com](mailto:tom.fabre31@gmail.com)
-🌐 LinkedIn : [linkedin/in/tom-fabre-ipi-informatique/]((https://www.linkedin.com/in/tom-fabre-ipi-informatique/))
+🌐 LinkedIn : [linkedin/in/tom-fabre-ipi-informatique/](https://www.linkedin.com/in/tom-fabre-ipi-informatique/)
 
 Merci de visiter mon profil ! ⭐ N'hésite pas à jeter un œil à mes projets et à contribuer !
 
